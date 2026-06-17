@@ -4,6 +4,12 @@ AI-powered interview preparation platform that helps students prepare for techni
 
 InterviewForge allows users to upload documents, interact with an AI assistant, generate interview questions, participate in mock interviews, and receive AI-generated performance reports.
 
+## System Architecture
+
+<p align="center">
+  <img src="assets/architecture.png" alt="InterviewForge Architecture" width="1000"/>
+</p>
+
 ---
 
 ## Features
