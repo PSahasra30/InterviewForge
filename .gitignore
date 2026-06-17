@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Chroma Vector Database
+chroma_db/
+
+# Uploaded Files
+uploads/
+
+# Python cache
+.pytest_cache/
+
+# Node
+node_modules/
+
+# React Build
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
