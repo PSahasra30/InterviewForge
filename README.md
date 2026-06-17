@@ -7,7 +7,7 @@ InterviewForge allows users to upload documents, interact with an AI assistant, 
 ## System Architecture
 
 <p align="center">
-  <img src="assets/architecture.png" alt="InterviewForge Architecture" width="1000"/>
+  <img src="assets/Architecture.png" alt="InterviewForge Architecture" width="1000"/>
 </p>
 
 ---
